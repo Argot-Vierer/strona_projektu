@@ -1,0 +1,26 @@
+.carousel .carousel-inner .carousel-item {
+  height: 532px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.carousel .carousel-inner .carousel-item:nth-child(1) {
+  background-image: url('/assets/game1.jpg');
+}
+
+.carousel .carousel-inner .carousel-item:nth-child(2) {
+  background-image: url('../assets/game2.png');
+}
+
+.carousel .carousel-inner .carousel-item:nth-child(3) {
+  background-image: url('../assets/game3.png');
+}
+
+.carousel .carousel-inner .carousel-item:nth-child(4) {
+  background-image: url('../assets/robogirl.png');
+}
+
+.carousel .carousel-inner .carousel-item:nth-child(5) {
+  background-image: url('../assets/game5.png');
+}

@@ -1,0 +1,39 @@
+h2.h5 {
+  letter-spacing: 0.374rem;
+}
+
+.form-label {
+  color: rgb(224, 209, 209);
+}
+
+#message {
+  height: 200px;
+  background-color: rgb(234, 255, 255);
+}
+
+.form-floating {
+  border-style: solid;
+  border-color: rgb(66, 51, 51);
+  box-shadow: 5px 3px;
+}
+
+.animate__backInDown.animate__delay-1s {
+  animation-duration: 3s;
+}
+
+
+
+.icon-hover:hover {
+  color: #3d79ce;
+
+}
+
+.icon-hover {
+  transition: transform 0.3s ease, color 0.3s ease;
+
+}
+
+
+
+
+
